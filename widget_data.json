@@ -1,0 +1,41 @@
+{
+  "isAuthenticated" : true,
+  "lastUpdated" : "2025-07-04T06:13:05Z",
+  "promises" : [
+    {
+      "content" : "bob",
+      "created_at" : "2025-07-02T04:42:37Z",
+      "id" : "297",
+      "owner_id" : "932376A3-57F8-46F7-A38D-6696F29B9ADC",
+      "resolved" : false,
+      "updated_at" : "2025-07-02T16:32:17Z"
+    },
+    {
+      "content" : "promise",
+      "created_at" : "2025-07-01T05:03:38Z",
+      "id" : "296",
+      "owner_id" : "932376A3-57F8-46F7-A38D-6696F29B9ADC",
+      "resolved" : false,
+      "updated_at" : "2025-07-01T05:03:38Z"
+    },
+    {
+      "content" : "Yeah sounds good will do",
+      "created_at" : "2025-06-28T03:11:36Z",
+      "id" : "295",
+      "owner_id" : "932376A3-57F8-46F7-A38D-6696F29B9ADC",
+      "resolved" : false,
+      "updated_at" : "2025-07-01T05:03:42Z"
+    },
+    {
+      "content" : "Can you send me a calendar invite for the afore VC thing tomorrow at 8?",
+      "created_at" : "2025-06-28T03:11:36Z",
+      "id" : "294",
+      "owner_id" : "932376A3-57F8-46F7-A38D-6696F29B9ADC",
+      "resolved" : false,
+      "updated_at" : "2025-07-01T05:03:44Z"
+    }
+  ],
+  "userEmail" : "rahult@vt.edu",
+  "userId" : "932376A3-57F8-46F7-A38D-6696F29B9ADC",
+  "version" : 1
+}
